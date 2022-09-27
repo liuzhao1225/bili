@@ -1,0 +1,2614 @@
+[
+  {
+    "wordRank": 1,
+    "headWord": "back",
+    "content": {
+      "word": {
+        "wordHead": "back",
+        "wordId": "TOEFL_2_1",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "I’ll be back in a minute.",
+                "sCn": "我马上回来。"
+              },
+              {
+                "sContent": "Put that book back where you found it!",
+                "sCn": "把那本书放回原处！"
+              },
+              {
+                "sContent": "He was back home by half past eleven.",
+                "sCn": "他是11点半之前回家的。"
+              },
+              {
+                "sContent": "It’s possible to travel there and back in a day.",
+                "sCn": "到那里一天来回是可以的。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "bæk",
+          "syno": {
+            "synos": [
+              {
+                "pos": "n",
+                "tran": "[机]后面；背部；[家具]靠背；足球等的后卫；书报等的末尾",
+                "hwds": [
+                  {
+                    "w": "rear"
+                  },
+                  {
+                    "w": "dorsum"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "tran": "支持；后退；背书；下赌注",
+                "hwds": [
+                  {
+                    "w": "encourage"
+                  },
+                  {
+                    "w": "second"
+                  },
+                  {
+                    "w": "carry"
+                  },
+                  {
+                    "w": "hand"
+                  },
+                  {
+                    "w": "champion"
+                  }
+                ]
+              },
+              {
+                "pos": "vi",
+                "tran": "后退；背靠；倒退",
+                "hwds": [
+                  {
+                    "w": "reverse"
+                  },
+                  {
+                    "w": "recede"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "tran": "以前；向后地；来回地；上溯",
+                "hwds": [
+                  {
+                    "w": "previously"
+                  },
+                  {
+                    "w": "ago"
+                  },
+                  {
+                    "w": "formerly"
+                  }
+                ]
+              },
+              {
+                "pos": "adj",
+                "tran": "[机]后面的；过去的；拖欠的",
+                "hwds": [
+                  {
+                    "w": "latter"
+                  },
+                  {
+                    "w": "past"
+                  },
+                  {
+                    "w": "ago"
+                  },
+                  {
+                    "w": "rear"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "bæk",
+          "ukspeech": "back&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "go back",
+                "pCn": "回去；追溯"
+              },
+              {
+                "pContent": "back in",
+                "pCn": "[体育]后内刃"
+              },
+              {
+                "pContent": "back of",
+                "pCn": "在…后面；在…背后"
+              },
+              {
+                "pContent": "back on",
+                "pCn": "背靠"
+              },
+              {
+                "pContent": "back into",
+                "pCn": "倒车撞上（某物）"
+              },
+              {
+                "pContent": "in the back",
+                "pCn": "在后面"
+              },
+              {
+                "pContent": "at the back",
+                "pCn": "在后面；在…后部"
+              },
+              {
+                "pContent": "back and forth",
+                "pCn": "反复地，来回地"
+              },
+              {
+                "pContent": "back up",
+                "pCn": "v. 支持，援助；（资料）备份；倒退；裱"
+              },
+              {
+                "pContent": "way back",
+                "pCn": "好久以前，老早就"
+              },
+              {
+                "pContent": "on the back of",
+                "pCn": "在…之外，在…后面"
+              },
+              {
+                "pContent": "at the back of",
+                "pCn": "在…背后，支持；在…的后面；在…的后部"
+              },
+              {
+                "pContent": "back down",
+                "pCn": "放弃；让步"
+              },
+              {
+                "pContent": "in the back of",
+                "pCn": "在……后面；在……之后"
+              },
+              {
+                "pContent": "back out",
+                "pCn": "退出；收回"
+              },
+              {
+                "pContent": "on my back",
+                "pCn": "在背上；找我麻烦，挑我毛病"
+              },
+              {
+                "pContent": "on one's back",
+                "pCn": "卧病在床"
+              },
+              {
+                "pContent": "back off",
+                "pCn": "后退；软化；减轻；卸下"
+              },
+              {
+                "pContent": "back to back",
+                "pCn": "背靠背；连续，紧接"
+              },
+              {
+                "pContent": "go back on",
+                "pCn": "违背；背弃"
+              }
+            ],
+            "desc": "短语"
+          },
+          "speech": "back",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "backward",
+                    "tran": " 向后的；反向的；发展迟缓的"
+                  },
+                  {
+                    "hwd": "backed",
+                    "tran": " 有背的；有财力支持的"
+                  },
+                  {
+                    "hwd": "backless",
+                    "tran": " 无背的；无靠背的；无后盾的"
+                  },
+                  {
+                    "hwd": "backmost",
+                    "tran": " 最后面的"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "backward",
+                    "tran": " 向后地；相反地"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "backing",
+                    "tran": " 支持；后退；支持者；衬背"
+                  },
+                  {
+                    "hwd": "backer",
+                    "tran": " 支持者；赞助人；援助者"
+                  },
+                  {
+                    "hwd": "backwardness",
+                    "tran": " 落后；迟疑；畏缩；腼腆"
+                  }
+                ]
+              },
+              {
+                "pos": "v",
+                "words": [
+                  {
+                    "hwd": "backing",
+                    "tran": " 支持（back的ing形式）"
+                  },
+                  {
+                    "hwd": "backed",
+                    "tran": " 支持；使后退（back的过去分词）"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "back&type=2",
+          "trans": [
+            {
+              "tranCn": "回原处",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adv",
+              "tranOther": "in, into, or to the place or position where someone or something was before"
+            },
+            {
+              "tranCn": "背,后面",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "the part of something that is furthest from the front"
+            },
+            {
+              "tranCn": "后面的",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adj",
+              "tranOther": "at or in the back of something"
+            },
+            {
+              "tranCn": "后退",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "v",
+              "tranOther": "in the opposite direction from the way you are facing"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 2,
+    "headWord": "significant",
+    "content": {
+      "word": {
+        "wordHead": "significant",
+        "wordId": "TOEFL_2_2",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "His most significant political achievement was the abolition of the death penalty.",
+                "sCn": "他政治上最重大的成就是废除了死刑。"
+              },
+              {
+                "sContent": "Please inform us if there are any significant changes in your plans.",
+                "sCn": "你们的计划如有重大变动，请通知我们。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "sɪɡ'nɪfɪkənt",
+          "ukspeech": "significant&type=1",
+          "star": 0,
+          "usspeech": "significant&type=2",
+          "syno": {
+            "synos": [
+              {
+                "pos": "adj",
+                "tran": "重大的；有效的；有意义的；值得注意的；意味深长的",
+                "hwds": [
+                  {
+                    "w": "valid"
+                  },
+                  {
+                    "w": "important"
+                  },
+                  {
+                    "w": "available"
+                  },
+                  {
+                    "w": "effective"
+                  },
+                  {
+                    "w": "virtual"
+                  },
+                  {
+                    "w": "remarkable"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "象征；有意义的事物",
+                "hwds": [
+                  {
+                    "w": "symbol"
+                  },
+                  {
+                    "w": "indication"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "sɪg'nɪfɪk(ə)nt",
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "significant difference",
+                "pCn": "显著性差异"
+              },
+              {
+                "pContent": "significant change",
+                "pCn": "显著变化；有效变化量"
+              },
+              {
+                "pContent": "statistically significant",
+                "pCn": "统计上显著的"
+              },
+              {
+                "pContent": "significant amount",
+                "pCn": "大量；有实义金额；巨数"
+              },
+              {
+                "pContent": "significant development",
+                "pCn": "重大进展；长足发展"
+              },
+              {
+                "pContent": "significant other",
+                "pCn": "重要他人"
+              },
+              {
+                "pContent": "significant level",
+                "pCn": "显著水准；检验水准；有效水平"
+              },
+              {
+                "pContent": "statistically significant difference",
+                "pCn": "统计上的显著差异"
+              },
+              {
+                "pContent": "significant event",
+                "pCn": "有意义事件"
+              },
+              {
+                "pContent": "significant wave",
+                "pCn": "指示波；显著波；有效波"
+              },
+              {
+                "pContent": "least significant bit",
+                "pCn": "最低有效位"
+              },
+              {
+                "pContent": "significant form",
+                "pCn": "有意味的形式；蕴意形式；言之有意的形式"
+              },
+              {
+                "pContent": "significant figure",
+                "pCn": "有效数字；有效数"
+              },
+              {
+                "pContent": "significant wave height",
+                "pCn": "有效波高"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "sig'nifikənt",
+          "speech": "significant",
+          "remMethod": {
+            "val": " sign(记号) + i + fic(做) + ant → 值得做记号的 → 有重大意义的",
+            "desc": "记忆"
+          },
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "significative",
+                    "tran": " 有意义的；表示…的；为…提供推定证据的"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "significantly",
+                    "tran": " 意味深长地；值得注目地"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "significance",
+                    "tran": " 意义；重要性；意思"
+                  },
+                  {
+                    "hwd": "signification",
+                    "tran": " 意义；表示"
+                  }
+                ]
+              },
+              {
+                "pos": "vi",
+                "words": [
+                  {
+                    "hwd": "signify",
+                    "tran": " 有重要性；要紧；冒充内行"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "words": [
+                  {
+                    "hwd": "signify",
+                    "tran": " 表示；意味；预示"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "trans": [
+            {
+              "tranCn": "重要的,意义重大的",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adj",
+              "tranOther": "having an important effect or influence, especially on what will happen in the future"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 3,
+    "headWord": "skill",
+    "content": {
+      "word": {
+        "wordHead": "skill",
+        "wordId": "TOEFL_2_3",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "Reading and writing are two different skills.",
+                "sCn": "阅读和写作是两种不同的技能。"
+              },
+              {
+                "sContent": "Many jobs today require computer skills.",
+                "sCn": "如今的许多工作都需要计算机技能。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "skɪl",
+          "syno": {
+            "synos": [
+              {
+                "pos": "n",
+                "tran": "技能，技巧；本领，技术",
+                "hwds": [
+                  {
+                    "w": "technique"
+                  },
+                  {
+                    "w": "science"
+                  },
+                  {
+                    "w": "mechanics"
+                  },
+                  {
+                    "w": "tips"
+                  },
+                  {
+                    "w": "accomplishment"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "skɪl",
+          "ukspeech": "skill&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "communication skill",
+                "pCn": "沟通技巧；传播技能"
+              },
+              {
+                "pContent": "skill in",
+                "pCn": "技能；对…熟练"
+              },
+              {
+                "pContent": "skill training",
+                "pCn": "技能训练；技巧训练"
+              },
+              {
+                "pContent": "professional skill",
+                "pCn": "专业技能"
+              },
+              {
+                "pContent": "basic skill",
+                "pCn": "基本技能；基本功"
+              },
+              {
+                "pContent": "writing skill",
+                "pCn": "写作技巧；书写技能；笔头"
+              },
+              {
+                "pContent": "language skill",
+                "pCn": "语言技能，语言能力；语言技巧"
+              },
+              {
+                "pContent": "technical skill",
+                "pCn": "工艺技术；专门技术"
+              },
+              {
+                "pContent": "skill set",
+                "pCn": "技能组合"
+              },
+              {
+                "pContent": "leadership skill",
+                "pCn": "领导技巧；领导技能；领导艺术"
+              },
+              {
+                "pContent": "interpersonal skill",
+                "pCn": "人际关系技巧，人际交往能力"
+              },
+              {
+                "pContent": "skill at",
+                "pCn": "技巧熟练"
+              },
+              {
+                "pContent": "negotiation skill",
+                "pCn": "谈判技巧"
+              },
+              {
+                "pContent": "unique skill",
+                "pCn": "绝招；绝技"
+              },
+              {
+                "pContent": "presentation skill",
+                "pCn": "n. 演讲技巧；表达技巧"
+              },
+              {
+                "pContent": "practical skill",
+                "pCn": "实际技能"
+              },
+              {
+                "pContent": "medical skill",
+                "pCn": "医术"
+              },
+              {
+                "pContent": "skill development",
+                "pCn": "n. 技能发展"
+              },
+              {
+                "pContent": "motor skill",
+                "pCn": "动作技能"
+              },
+              {
+                "pContent": "social skill",
+                "pCn": "社会技能；社交能力；社交技能"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "skil",
+          "speech": "skill",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "skilled",
+                    "tran": " 熟练的；有技能的；需要技能的"
+                  },
+                  {
+                    "hwd": "skillful",
+                    "tran": " 熟练的；巧妙的"
+                  },
+                  {
+                    "hwd": "skilful",
+                    "tran": " （英）熟练的；灵巧的；技术好的（等于skillful）"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "skillfully",
+                    "tran": " 巧妙地；精巧地"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "skillfulness",
+                    "tran": " 灵巧；有技巧"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "skill&type=2",
+          "trans": [
+            {
+              "tranCn": "技能,技巧",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "an ability to do something well, especially because you have learned and practised it"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 4,
+    "headWord": "public",
+    "content": {
+      "word": {
+        "wordHead": "public",
+        "wordId": "TOEFL_2_4",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "We have to show that publishing this story is in the public interest (= helpful or useful to ordinary people ) .",
+                "sCn": "我们必须证明刊登这篇报道有利于公众。"
+              },
+              {
+                "sContent": "full public access to information",
+                "sCn": "公众对信息的充分知情权"
+              },
+              {
+                "sContent": "Public opinion is gradually shifting in favor of the imprisoned men.",
+                "sCn": "舆论渐渐倾向于同情入狱的男子。"
+              },
+              {
+                "sContent": "There was a public outcry (= expression of anger by a lot of people ) about the shooting.",
+                "sCn": "公众就枪击事件发出了强烈抗议。"
+              },
+              {
+                "sContent": "Their activities have been hidden from the public gaze (= people’s eyes or attention ) .",
+                "sCn": "他们的活动一直在避开公众的视线。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "'pʌblɪk",
+          "syno": {
+            "synos": [
+              {
+                "pos": "adj",
+                "tran": "公众的；政府的；公用的；公立的",
+                "hwds": [
+                  {
+                    "w": "governmental"
+                  },
+                  {
+                    "w": "commonable"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "公众；社会；公共场所",
+                "hwds": [
+                  {
+                    "w": "society"
+                  },
+                  {
+                    "w": "ambiente"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "'pʌblɪk",
+          "ukspeech": "public&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "in public",
+                "pCn": "adv. 公开地，当众"
+              },
+              {
+                "pContent": "public health",
+                "pCn": "n. 公共卫生；公共卫生设施"
+              },
+              {
+                "pContent": "public security",
+                "pCn": "公共安全"
+              },
+              {
+                "pContent": "public opinion",
+                "pCn": "民意；公众舆论"
+              },
+              {
+                "pContent": "public service",
+                "pCn": "公共服务，公益服务；公用设施"
+              },
+              {
+                "pContent": "public interest",
+                "pCn": "公共利益"
+              },
+              {
+                "pContent": "general public",
+                "pCn": "公众"
+              },
+              {
+                "pContent": "public policy",
+                "pCn": "国家政策"
+              },
+              {
+                "pContent": "public transportation",
+                "pCn": "公共交通，公共运输；公共交通工具"
+              },
+              {
+                "pContent": "public transport",
+                "pCn": "公交车"
+              },
+              {
+                "pContent": "public administration",
+                "pCn": "公共行政；公共管理；行政管理"
+              },
+              {
+                "pContent": "public bidding",
+                "pCn": "公开投标"
+              },
+              {
+                "pContent": "public library",
+                "pCn": "公共图书馆；公立图书馆"
+              },
+              {
+                "pContent": "public finance",
+                "pCn": "财政学"
+              },
+              {
+                "pContent": "public welfare",
+                "pCn": "公共福利，公用福利设施；社会福利"
+              },
+              {
+                "pContent": "invite public bidding",
+                "pCn": "（公开）招标"
+              },
+              {
+                "pContent": "public space",
+                "pCn": "公共空间；银行营业厅"
+              },
+              {
+                "pContent": "public order",
+                "pCn": "公共秩序；社会治安"
+              },
+              {
+                "pContent": "public housing",
+                "pCn": "公共住房，政府为低收入者所建的住房"
+              },
+              {
+                "pContent": "public sector",
+                "pCn": "国营部门经济；政府资助的企事业；社会经济的公有部份"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "'pʌblik",
+          "speech": "public",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "publicly",
+                    "tran": " 公然地；以公众名义"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "publicity",
+                    "tran": " 宣传，宣扬；公开；广告；注意"
+                  },
+                  {
+                    "hwd": "publication",
+                    "tran": " 出版；出版物；发表"
+                  },
+                  {
+                    "hwd": "publicist",
+                    "tran": " 国际法学家；宣传人员；公法学家"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "words": [
+                  {
+                    "hwd": "publicize",
+                    "tran": " 宣传；公布"
+                  },
+                  {
+                    "hwd": "publicise",
+                    "tran": " 宣传，宣扬；公布，颂"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "public&type=2",
+          "trans": [
+            {
+              "tranCn": "公共的,公开的",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adj",
+              "tranOther": "relating to all the ordinary people in a country, who are not members of the government or do not have important jobs"
+            },
+            {
+              "tranCn": "公众",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "ordinary people who do not work for the government or have any special position in society"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 5,
+    "headWord": "go",
+    "content": {
+      "word": {
+        "wordHead": "go",
+        "wordId": "TOEFL_2_5",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "The plate went crashing to the floor.",
+                "sCn": "盘子哗啦一声掉在地板上。"
+              },
+              {
+                "sContent": "The bullet went flying over my head.",
+                "sCn": "子弹从我头顶飞过。"
+              },
+              {
+                "sContent": "John went rushing off down the corridor.",
+                "sCn": "约翰沿走廊飞奔而去。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "go",
+          "syno": {
+            "synos": [
+              {
+                "pos": "vi",
+                "tran": "走；达到；运转；趋于",
+                "hwds": [
+                  {
+                    "w": "walk"
+                  },
+                  {
+                    "w": "step"
+                  },
+                  {
+                    "w": "track"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "去；进行；尝试",
+                "hwds": [
+                  {
+                    "w": "stroke"
+                  },
+                  {
+                    "w": "conduct"
+                  },
+                  {
+                    "w": "process"
+                  },
+                  {
+                    "w": "experiment"
+                  },
+                  {
+                    "w": "try"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "tran": "忍受；出产；以…打赌",
+                "hwds": [
+                  {
+                    "w": "yield"
+                  },
+                  {
+                    "w": "stomach"
+                  },
+                  {
+                    "w": "stand"
+                  },
+                  {
+                    "w": "abide"
+                  },
+                  {
+                    "w": "tough"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "antos": {
+            "anto": [
+              {
+                "hwd": "come"
+              }
+            ],
+            "desc": "反义"
+          },
+          "ukphone": "gəʊ",
+          "ukspeech": "go&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "going on",
+                "pCn": "进行，发生"
+              },
+              {
+                "pContent": "go home",
+                "pCn": "回家"
+              },
+              {
+                "pContent": "let go",
+                "pCn": "放开；释放；发射"
+              },
+              {
+                "pContent": "go up",
+                "pCn": "增长；上升；被兴建起来"
+              },
+              {
+                "pContent": "go on",
+                "pCn": "继续；过去；继续下去；发生"
+              },
+              {
+                "pContent": "could go",
+                "pCn": "巴不得吃；巴不得喝"
+              },
+              {
+                "pContent": "go straight",
+                "pCn": "改过自新"
+              },
+              {
+                "pContent": "go wrong",
+                "pCn": "出毛病；弄错；发生故障"
+              },
+              {
+                "pContent": "go in",
+                "pCn": "参加；（太阳等）被云遮住；放得进"
+              },
+              {
+                "pContent": "go all out",
+                "pCn": "鼓足干劲，全力以赴"
+              },
+              {
+                "pContent": "gone on someone",
+                "pCn": "[口语]倾心于某人"
+              },
+              {
+                "pContent": "go well",
+                "pCn": "进展顺利"
+              },
+              {
+                "pContent": "on the go",
+                "pCn": "忙个不停，四处奔走"
+              },
+              {
+                "pContent": "go by",
+                "pCn": "经过；顺便走访；凭…判断"
+              },
+              {
+                "pContent": "go somewhere",
+                "pCn": "去某个地方；出去一下"
+              },
+              {
+                "pContent": "no go",
+                "pCn": "不行，失败"
+              },
+              {
+                "pContent": "first go",
+                "pCn": "[口语]第一次尝试；一下子，一口气"
+              },
+              {
+                "pContent": "go astray",
+                "pCn": "v. 走入歧途；迷路"
+              },
+              {
+                "pContent": "go slow",
+                "pCn": "怠工；慢慢走"
+              },
+              {
+                "pContent": "go easy",
+                "pCn": "安闲；从容不迫"
+              }
+            ],
+            "desc": "短语"
+          },
+          "speech": "go",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "gone",
+                    "tran": " 离去的；死去的；用光的"
+                  },
+                  {
+                    "hwd": "going",
+                    "tran": " 流行的；进行中的；现存的"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "going",
+                    "tran": " 行为；离去；工作情况；地面状况"
+                  },
+                  {
+                    "hwd": "goer",
+                    "tran": " 动态物；离去的人；常去…的人；有进取心的人"
+                  }
+                ]
+              },
+              {
+                "pos": "v",
+                "words": [
+                  {
+                    "hwd": "gone",
+                    "tran": " 去（go的过去分词）"
+                  },
+                  {
+                    "hwd": "going",
+                    "tran": " 前进；出发；运转（go的ing形式）"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "go&type=2",
+          "trans": [
+            {
+              "tranCn": "去,离开,进行",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "v",
+              "tranOther": "to move in a particular way, or to do something as you are moving"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 6,
+    "headWord": "fish",
+    "content": {
+      "word": {
+        "wordHead": "fish",
+        "wordId": "TOEFL_2_6",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "Over 1,500 different species of fish inhabit the waters around the reef.",
+                "sCn": "那片礁石周围的水域生活着1,500多种不同的鱼类。"
+              },
+              {
+                "sContent": "The stonefish is the most deadly of all fishes.",
+                "sCn": "石鱼是所有鱼类中毒性最强的。"
+              },
+              {
+                "sContent": "The lake is well stocked with fish (= it contains a lot of fish ) .",
+                "sCn": "湖中有许多鱼。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "fɪʃ",
+          "syno": {
+            "synos": [
+              {
+                "pos": "vi",
+                "tran": "捕鱼，钓鱼；用钩捞取",
+                "hwds": [
+                  {
+                    "w": "angle"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "[鱼]鱼，鱼类",
+                "hwds": [
+                  {
+                    "w": "ikan"
+                  },
+                  {
+                    "w": "fim"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "tran": "钓鱼，捕鱼；搜寻",
+                "hwds": [
+                  {
+                    "w": "search"
+                  },
+                  {
+                    "w": "hunt for"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "fɪʃ",
+          "ukspeech": "fish&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "big fish",
+                "pCn": "大鱼；重要人物"
+              },
+              {
+                "pContent": "fish for",
+                "pCn": "摸索；寻找"
+              },
+              {
+                "pContent": "fish oil",
+                "pCn": "鱼油，鱼肝油"
+              },
+              {
+                "pContent": "fish meal",
+                "pCn": "（用作肥料或饲料的）鱼粉"
+              },
+              {
+                "pContent": "fish out",
+                "pCn": "掏出，摸索出；捕尽鱼"
+              },
+              {
+                "pContent": "fish tank",
+                "pCn": "鱼缸，金鱼缸"
+              },
+              {
+                "pContent": "fish and chips",
+                "pCn": "炸鱼和土豆片"
+              },
+              {
+                "pContent": "catch fish",
+                "pCn": "抓鱼，捕鱼"
+              },
+              {
+                "pContent": "fresh fish",
+                "pCn": "新鲜的鱼；新囚犯；青年囚犯"
+              },
+              {
+                "pContent": "food fish",
+                "pCn": "食用鱼"
+              },
+              {
+                "pContent": "cold fish",
+                "pCn": "态度冷冰冰的人"
+              },
+              {
+                "pContent": "fish out of water",
+                "pCn": "[谚]如鱼离水；离水之鱼，不得其所"
+              },
+              {
+                "pContent": "tropical fish",
+                "pCn": "热带鱼"
+              },
+              {
+                "pContent": "fish sauce",
+                "pCn": "鱼露"
+              },
+              {
+                "pContent": "fish culture",
+                "pCn": "渔业"
+              },
+              {
+                "pContent": "flying fish",
+                "pCn": "n. [动]飞鱼；科鱼；文鹞鱼"
+              },
+              {
+                "pContent": "fish or cut bait",
+                "pCn": "全力以赴或索性放弃"
+              },
+              {
+                "pContent": "raw fish",
+                "pCn": "生鱼片"
+              },
+              {
+                "pContent": "little fish",
+                "pCn": "小鱼"
+              },
+              {
+                "pContent": "fried fish",
+                "pCn": "炸鱼"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "fiʃ",
+          "speech": "fish",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "fishing",
+                    "tran": " 钓鱼的；钓鱼用的"
+                  },
+                  {
+                    "hwd": "fishy",
+                    "tran": " 鱼的；可疑的；似鱼的；呆滞的"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "fishily",
+                    "tran": " 多鱼地；无表情地"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "fishing",
+                    "tran": " 渔业；捕鱼（术）；试探；装配"
+                  }
+                ]
+              },
+              {
+                "pos": "v",
+                "words": [
+                  {
+                    "hwd": "fishing",
+                    "tran": " 捕鱼（fish的ing形式）"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "fish&type=2",
+          "trans": [
+            {
+              "tranCn": "鱼",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "an animal that lives in water, and uses its  fins  and tail to swim"
+            },
+            {
+              "tranCn": "钓鱼",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "v",
+              "tranOther": "to try to catch fish"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 7,
+    "headWord": "set",
+    "content": {
+      "word": {
+        "wordHead": "set",
+        "wordId": "TOEFL_2_7",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "a chess set",
+                "sCn": "一副国际象棋"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "sɛt",
+          "syno": {
+            "synos": [
+              {
+                "pos": "n",
+                "tran": "一套；[数]集合；[机]装置；趋势；布景",
+                "hwds": [
+                  {
+                    "w": "device"
+                  },
+                  {
+                    "w": "apparatus"
+                  },
+                  {
+                    "w": "installation"
+                  },
+                  {
+                    "w": "assembly"
+                  },
+                  {
+                    "w": "tendency"
+                  },
+                  {
+                    "w": "unit"
+                  },
+                  {
+                    "w": "direction"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "tran": "放；树立；点燃；使凝结；点缀",
+                "hwds": [
+                  {
+                    "w": "put"
+                  },
+                  {
+                    "w": "fire"
+                  },
+                  {
+                    "w": "rear"
+                  },
+                  {
+                    "w": "light"
+                  }
+                ]
+              },
+              {
+                "pos": "vi",
+                "tran": "结果；定型；凝固",
+                "hwds": [
+                  {
+                    "w": "result"
+                  },
+                  {
+                    "w": "bottom line"
+                  }
+                ]
+              },
+              {
+                "pos": "adj",
+                "tran": "规定的；固定的；固执的",
+                "hwds": [
+                  {
+                    "w": "specified"
+                  },
+                  {
+                    "w": "stated"
+                  },
+                  {
+                    "w": "fixed"
+                  },
+                  {
+                    "w": "prescribed"
+                  },
+                  {
+                    "w": "regulation"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "set",
+          "ukspeech": "set&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "set up",
+                "pCn": "v. 建立；装配；开业；竖立"
+              },
+              {
+                "pContent": "a set of",
+                "pCn": "一套；一组；一副"
+              },
+              {
+                "pContent": "set out",
+                "pCn": "出发；开始；陈述；陈列"
+              },
+              {
+                "pContent": "complete set",
+                "pCn": "整套；[计]成套机组；完全集"
+              },
+              {
+                "pContent": "set in",
+                "pCn": "vi. 开始；到来；流行"
+              },
+              {
+                "pContent": "set forth",
+                "pCn": "陈述，提出；出发；陈列；宣布"
+              },
+              {
+                "pContent": "set off",
+                "pCn": "v. 出发；引起；动身；使爆炸；抵销；分开"
+              },
+              {
+                "pContent": "set by",
+                "pCn": "把…留开"
+              },
+              {
+                "pContent": "a complete set of",
+                "pCn": "一整套"
+              },
+              {
+                "pContent": "form a complete set",
+                "pCn": "配套"
+              },
+              {
+                "pContent": "set theory",
+                "pCn": "集合论"
+              },
+              {
+                "pContent": "set on",
+                "pCn": "唆使；开始；攻击"
+              },
+              {
+                "pContent": "full set",
+                "pCn": "全套，全组"
+              },
+              {
+                "pContent": "full set of",
+                "pCn": "全套；一整套"
+              },
+              {
+                "pContent": "set up for",
+                "pCn": "自以为；自命为；为…做准备"
+              },
+              {
+                "pContent": "whole set",
+                "pCn": "成套；全套装置"
+              },
+              {
+                "pContent": "data set",
+                "pCn": "数据集；数传机"
+              },
+              {
+                "pContent": "one set",
+                "pCn": "一盘"
+              },
+              {
+                "pContent": "tv set",
+                "pCn": "n. 电视机"
+              },
+              {
+                "pContent": "all set",
+                "pCn": "准备就绪，都安排好了"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "set",
+          "speech": "set",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "setter",
+                    "tran": " [机] 调节器；作曲者；排字工人；安装员，从事安装的人"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "set&type=2",
+          "trans": [
+            {
+              "tranCn": "(一)套",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "a group of similar things that belong together or are related in some way"
+            },
+            {
+              "tranCn": "放置,设定",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "v",
+              "tranOther": "to carefully put something down somewhere"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 8,
+    "headWord": "once",
+    "content": {
+      "word": {
+        "wordHead": "once",
+        "wordId": "TOEFL_2_8",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "I’ve only met her once.",
+                "sCn": "我只见过她一面。"
+              },
+              {
+                "sContent": "Paul’s been to Wexford once before.",
+                "sCn": "保罗曾去过韦克斯福德一次。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "wʌns",
+          "syno": {
+            "synos": [
+              {
+                "pos": "adv",
+                "tran": "一次；曾经",
+                "hwds": [
+                  {
+                    "w": "ever"
+                  },
+                  {
+                    "w": "e'er"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "一次，一回",
+                "hwds": [
+                  {
+                    "w": "breath"
+                  },
+                  {
+                    "w": "one time"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "wʌns",
+          "ukspeech": "once&type=1",
+          "star": 0,
+          "phone": "wʌns",
+          "speech": "once",
+          "usspeech": "once&type=2",
+          "trans": [
+            {
+              "tranCn": "一次,曾经",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adv",
+              "tranOther": "on one occasion only"
+            },
+            {
+              "tranCn": "一旦…(就…)",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "conj",
+              "tranOther": "from the time when something happens"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 9,
+    "headWord": "table",
+    "content": {
+      "word": {
+        "wordHead": "table",
+        "wordId": "TOEFL_2_9",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "The food was served on long tables.",
+                "sCn": "食物放在长餐桌上供应。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "'tebl",
+          "syno": {
+            "synos": [
+              {
+                "pos": "n",
+                "tran": "桌子；表格；平地层",
+                "hwds": [
+                  {
+                    "w": "form"
+                  },
+                  {
+                    "w": "tabulation"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "tran": "制表；搁置；嵌合",
+                "hwds": [
+                  {
+                    "w": "leave in the air"
+                  },
+                  {
+                    "w": "leave aside"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "'teɪb(ə)l",
+          "ukspeech": "table&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "on the table",
+                "pCn": "在桌面上；公开地"
+              },
+              {
+                "pContent": "under the table",
+                "pCn": "酒醉；秘密地"
+              },
+              {
+                "pContent": "table tennis",
+                "pCn": "乒乓球；桌球"
+              },
+              {
+                "pContent": "at table",
+                "pCn": "在餐桌边，在进餐"
+              },
+              {
+                "pContent": "at the table",
+                "pCn": "吃饭时；在谈判中"
+              },
+              {
+                "pContent": "dinner table",
+                "pCn": "餐桌"
+              },
+              {
+                "pContent": "dining table",
+                "pCn": "餐桌"
+              },
+              {
+                "pContent": "shaking table",
+                "pCn": "摇床；淘汰盘；摇动工作台"
+              },
+              {
+                "pContent": "clear the table",
+                "pCn": "收拾桌子，收拾饭桌"
+              },
+              {
+                "pContent": "decision table",
+                "pCn": "决策表；判定表"
+              },
+              {
+                "pContent": "water table",
+                "pCn": "地下水位；潜水面；[建]泻水台；马路边沟"
+              },
+              {
+                "pContent": "coffee table",
+                "pCn": "咖啡桌；咖啡茶几"
+              },
+              {
+                "pContent": "to table a proposal",
+                "pCn": "提出建议"
+              },
+              {
+                "pContent": "table cloth",
+                "pCn": "n. 桌布"
+              },
+              {
+                "pContent": "off the table",
+                "pCn": "不予讨论；离开台面"
+              },
+              {
+                "pContent": "round table",
+                "pCn": "圆桌会议，协商会议"
+              },
+              {
+                "pContent": "tea table",
+                "pCn": "茶几；茶桌"
+              },
+              {
+                "pContent": "table top",
+                "pCn": "桌面"
+              },
+              {
+                "pContent": "table manners",
+                "pCn": "饭桌礼仪"
+              },
+              {
+                "pContent": "kitchen table",
+                "pCn": "餐桌；案桌；厨房台"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "'teibl",
+          "speech": "table",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "tab",
+                    "tran": " 标签；制表；帐单"
+                  }
+                ]
+              },
+              {
+                "pos": "vt",
+                "words": [
+                  {
+                    "hwd": "tab",
+                    "tran": " 给…贴标签"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "table&type=2",
+          "trans": [
+            {
+              "tranCn": "桌子,表格",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "a piece of furniture with a flat top supported by legs"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 10,
+    "headWord": "demand",
+    "content": {
+      "word": {
+        "wordHead": "demand",
+        "wordId": "TOEFL_2_10",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "Production is still increasing faster than demand.",
+                "sCn": "生产仍比需求增长快。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "dɪ'mænd",
+          "syno": {
+            "synos": [
+              {
+                "pos": "vt",
+                "tran": "要求；需要；查询",
+                "hwds": [
+                  {
+                    "w": "exact"
+                  },
+                  {
+                    "w": "lack"
+                  },
+                  {
+                    "w": "desire"
+                  },
+                  {
+                    "w": "call for"
+                  }
+                ]
+              },
+              {
+                "pos": "vi",
+                "tran": "需要；[计]请求；查问",
+                "hwds": [
+                  {
+                    "w": "wish"
+                  },
+                  {
+                    "w": "have need of"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "tran": "[经]需求；要求；需要",
+                "hwds": [
+                  {
+                    "w": "necessity"
+                  },
+                  {
+                    "w": "need"
+                  },
+                  {
+                    "w": "do"
+                  },
+                  {
+                    "w": "desire"
+                  },
+                  {
+                    "w": "want"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "dɪ'mɑːnd",
+          "ukspeech": "demand&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "demand of",
+                "pCn": "v. 要求；向…索取"
+              },
+              {
+                "pContent": "demand for",
+                "pCn": "对…的需求"
+              },
+              {
+                "pContent": "market demand",
+                "pCn": "市场需求"
+              },
+              {
+                "pContent": "supply and demand",
+                "pCn": "供应与需求"
+              },
+              {
+                "pContent": "meet the demand",
+                "pCn": "满足需要，满足要求；符合要求"
+              },
+              {
+                "pContent": "in demand",
+                "pCn": "受欢迎的；非常需要的；销路好；有需要"
+              },
+              {
+                "pContent": "customer demand",
+                "pCn": "顾客需求"
+              },
+              {
+                "pContent": "on demand",
+                "pCn": "见票即付；即期"
+              },
+              {
+                "pContent": "domestic demand",
+                "pCn": "国内需求；本地内部需求"
+              },
+              {
+                "pContent": "consumer demand",
+                "pCn": "消费需求；消费者的要求"
+              },
+              {
+                "pContent": "demand and supply",
+                "pCn": "需求与供应"
+              },
+              {
+                "pContent": "demand analysis",
+                "pCn": "需求分析"
+              },
+              {
+                "pContent": "water demand",
+                "pCn": "需水量"
+              },
+              {
+                "pContent": "in great demand",
+                "pCn": "需要量很大"
+              },
+              {
+                "pContent": "strong demand",
+                "pCn": "强烈要求；殷切需求"
+              },
+              {
+                "pContent": "actual demand",
+                "pCn": "实际需求"
+              },
+              {
+                "pContent": "power demand",
+                "pCn": "功率需量，电力需量"
+              },
+              {
+                "pContent": "traffic demand",
+                "pCn": "交通需求"
+              },
+              {
+                "pContent": "energy demand",
+                "pCn": "能源需求；需能量；能量需要"
+              },
+              {
+                "pContent": "demand side",
+                "pCn": "需求的方面；需要面"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "di'mɑ:nd, -'mænd",
+          "speech": "demand",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "demanding",
+                    "tran": " 苛求的；要求高的；吃力的"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "demander",
+                    "tran": " 要求者，请求者"
+                  }
+                ]
+              },
+              {
+                "pos": "v",
+                "words": [
+                  {
+                    "hwd": "demanding",
+                    "tran": " 要求；查问（demand的ing形式）"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "demand&type=2",
+          "trans": [
+            {
+              "tranCn": "要求,需要",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n&v",
+              "tranOther": "the need or desire that people have for particular goods and services"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 11,
+    "headWord": "day",
+    "content": {
+      "word": {
+        "wordHead": "day",
+        "wordId": "TOEFL_2_11",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "We spent three days in Paris.",
+                "sCn": "我们在巴黎度过了三天。"
+              },
+              {
+                "sContent": "‘What day is it today?’ ‘Friday.’",
+                "sCn": "“今天星期几？” “星期五。”"
+              },
+              {
+                "sContent": "He left two days ago.",
+                "sCn": "他两天前离开的。"
+              },
+              {
+                "sContent": "I’ll call you in a couple of days.",
+                "sCn": "我过两天给你电话。"
+              },
+              {
+                "sContent": "I saw Jane the day before yesterday .",
+                "sCn": "前天我看到了简。"
+              },
+              {
+                "sContent": "We’re leaving for New York the day after tomorrow .",
+                "sCn": "我们后天启程去纽约。"
+              },
+              {
+                "sContent": "I got an email from Sue the other day (= a few days ago ) .",
+                "sCn": "前几天，我收到休发来的一封电子邮件。"
+              },
+              {
+                "sContent": "Women generally use up about 2,000 calories a day (= each day ) .",
+                "sCn": "女性一般每天消耗大约2,000卡路里。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "de",
+          "syno": {
+            "synos": [
+              {
+                "pos": "n",
+                "tran": "一天；时期；白昼",
+                "hwds": [
+                  {
+                    "w": "period"
+                  },
+                  {
+                    "w": "season"
+                  },
+                  {
+                    "w": "page"
+                  }
+                ]
+              },
+              {
+                "pos": "adj",
+                "tran": "日间的；逐日的",
+                "hwds": [
+                  {
+                    "w": "day-to-day"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "deɪ",
+          "ukspeech": "day&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "every day",
+                "pCn": "每天；每个白天"
+              },
+              {
+                "pContent": "one day",
+                "pCn": "（将来）有一天；总有一天；（过去）某一天"
+              },
+              {
+                "pContent": "all day",
+                "pCn": "整天"
+              },
+              {
+                "pContent": "by day",
+                "pCn": "在白天；日间"
+              },
+              {
+                "pContent": "day by day",
+                "pCn": "一天天；逐日"
+              },
+              {
+                "pContent": "of the day",
+                "pCn": "当时的；当代的"
+              },
+              {
+                "pContent": "first day",
+                "pCn": "n. 星期日"
+              },
+              {
+                "pContent": "next day",
+                "pCn": "第二天"
+              },
+              {
+                "pContent": "some day",
+                "pCn": "总有一天；将来有一天；来日"
+              },
+              {
+                "pContent": "other day",
+                "pCn": "几天前"
+              },
+              {
+                "pContent": "in the day",
+                "pCn": "在白天；在一天中"
+              },
+              {
+                "pContent": "with each passing day",
+                "pCn": "日益地，一天天地"
+              },
+              {
+                "pContent": "national day",
+                "pCn": "国庆节"
+              },
+              {
+                "pContent": "day and night",
+                "pCn": "日以继夜"
+              },
+              {
+                "pContent": "per day",
+                "pCn": "每日，每天"
+              },
+              {
+                "pContent": "valentine's day",
+                "pCn": "n. 情人节（每年2月14日）"
+              },
+              {
+                "pContent": "another day",
+                "pCn": "另一天，又一天；改日；吉日"
+              },
+              {
+                "pContent": "last day",
+                "pCn": "最后一天；最后审判日"
+              },
+              {
+                "pContent": "on the day",
+                "pCn": "在那天；（英）到那时"
+              },
+              {
+                "pContent": "the day before",
+                "pCn": "前一天"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "dei",
+          "speech": "day",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "daily",
+                    "tran": " 日常的；每日的"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "daily",
+                    "tran": " 日常地；每日；天天"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "daily",
+                    "tran": " 日报；朝来夜去的女佣"
+                  },
+                  {
+                    "hwd": "daylight",
+                    "tran": " 白天；日光；黎明；公开"
+                  },
+                  {
+                    "hwd": "daycare",
+                    "tran": " 日托；日间照管儿童"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "day&type=2",
+          "trans": [
+            {
+              "tranCn": "天,一昼夜,时期",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "a period of 24 hours"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 12,
+    "headWord": "south",
+    "content": {
+      "word": {
+        "wordHead": "south",
+        "wordId": "TOEFL_2_12",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "Which way is south?",
+                "sCn": "哪面是南？"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "saʊθ",
+          "syno": {
+            "synos": [
+              {
+                "pos": "adj",
+                "tran": "南的，南方的",
+                "hwds": [
+                  {
+                    "w": "austral"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "saʊθ",
+          "ukspeech": "south&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "south korea",
+                "pCn": "南韩"
+              },
+              {
+                "pContent": "south of",
+                "pCn": "在…之南"
+              },
+              {
+                "pContent": "in the south",
+                "pCn": "在南方"
+              },
+              {
+                "pContent": "south africa",
+                "pCn": "南非"
+              },
+              {
+                "pContent": "south america",
+                "pCn": "南美洲"
+              },
+              {
+                "pContent": "south korean",
+                "pCn": "韩国的；韩国人"
+              },
+              {
+                "pContent": "south china sea",
+                "pCn": "（中国的）南海"
+              },
+              {
+                "pContent": "in the south of",
+                "pCn": "在…南方，在…的南部；在…的南面"
+              },
+              {
+                "pContent": "south african",
+                "pCn": "南非；南非的；南非人；南非人的"
+              },
+              {
+                "pContent": "south american",
+                "pCn": "南美洲的；南美洲人的"
+              },
+              {
+                "pContent": "south asia",
+                "pCn": "n. 南亚"
+              },
+              {
+                "pContent": "south carolina",
+                "pCn": "美国南卡罗来纳州"
+              },
+              {
+                "pContent": "south side",
+                "pCn": "南区"
+              },
+              {
+                "pContent": "south pole",
+                "pCn": "[地]南极，南极地带"
+              },
+              {
+                "pContent": "south gate",
+                "pCn": "南盖特（美国加利福尼亚州西南部城市）"
+              },
+              {
+                "pContent": "south dakota",
+                "pCn": "南达科塔（美国）"
+              },
+              {
+                "pContent": "south australia",
+                "pCn": "南澳大利亚"
+              },
+              {
+                "pContent": "south island",
+                "pCn": "n. （新西兰的）南岛"
+              },
+              {
+                "pContent": "face south",
+                "pCn": "朝南"
+              },
+              {
+                "pContent": "south wind",
+                "pCn": "南风"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "sauθ, sauð",
+          "speech": "south",
+          "relWord": {
+            "rels": [
+              {
+                "pos": "adj",
+                "words": [
+                  {
+                    "hwd": "southern",
+                    "tran": " 南的；南方的"
+                  },
+                  {
+                    "hwd": "southeastern",
+                    "tran": " 东南方的；朝东南的"
+                  },
+                  {
+                    "hwd": "southward",
+                    "tran": " 向南的；在南方的"
+                  },
+                  {
+                    "hwd": "southbound",
+                    "tran": " 往南的；向南行进的"
+                  },
+                  {
+                    "hwd": "southerly",
+                    "tran": " 来自南方的；向南的"
+                  },
+                  {
+                    "hwd": "southernmost",
+                    "tran": " 最南的"
+                  },
+                  {
+                    "hwd": "southmost",
+                    "tran": " 最南的"
+                  }
+                ]
+              },
+              {
+                "pos": "adv",
+                "words": [
+                  {
+                    "hwd": "southward",
+                    "tran": " 向南"
+                  },
+                  {
+                    "hwd": "southerly",
+                    "tran": " 来自南方；向南"
+                  }
+                ]
+              },
+              {
+                "pos": "n",
+                "words": [
+                  {
+                    "hwd": "southern",
+                    "tran": " 南方人"
+                  },
+                  {
+                    "hwd": "southerner",
+                    "tran": " 南方人"
+                  },
+                  {
+                    "hwd": "southward",
+                    "tran": " 朝南的方向"
+                  },
+                  {
+                    "hwd": "souther",
+                    "tran": " 正南强风；南风"
+                  },
+                  {
+                    "hwd": "southerly",
+                    "tran": " 南风"
+                  }
+                ]
+              }
+            ],
+            "desc": "同根"
+          },
+          "usspeech": "south&type=2",
+          "trans": [
+            {
+              "tranCn": "南部",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "n",
+              "tranOther": "the direction that is at the bottom of a map of the world, below the Equator. It is on the right if you are facing the rising sun."
+            },
+            {
+              "tranCn": "南方的",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adj",
+              "tranOther": "in the south, or facing the south"
+            },
+            {
+              "tranCn": "在南方",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adv",
+              "tranOther": "in or to the southern part of England"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }
+  {
+    "wordRank": 13,
+    "headWord": "almost",
+    "content": {
+      "word": {
+        "wordHead": "almost",
+        "wordId": "TOEFL_2_13",
+        "content": {
+          "sentence": {
+            "sentences": [
+              {
+                "sContent": "Have you almost finished?",
+                "sCn": "你差不多完成了吗？"
+              },
+              {
+                "sContent": "Supper’s almost ready.",
+                "sCn": "晚饭就要做好了。"
+              },
+              {
+                "sContent": "It was almost midnight.",
+                "sCn": "午夜将至。"
+              },
+              {
+                "sContent": "Almost nothing was done to improve the situation.",
+                "sCn": "几乎没有采取什么措施来改善这个情况。"
+              },
+              {
+                "sContent": "The story is almost certainly true.",
+                "sCn": "这故事几乎肯定是真实的。"
+              },
+              {
+                "sContent": "He’s almost as old as I am.",
+                "sCn": "他差不多跟我一样大。"
+              }
+            ],
+            "desc": "例句"
+          },
+          "usphone": "'ɔlmost",
+          "syno": {
+            "synos": [
+              {
+                "pos": "adv",
+                "tran": "差不多，几乎",
+                "hwds": [
+                  {
+                    "w": "nearly"
+                  },
+                  {
+                    "w": "most"
+                  },
+                  {
+                    "w": "virtually"
+                  },
+                  {
+                    "w": "practically"
+                  },
+                  {
+                    "w": "feckly"
+                  }
+                ]
+              }
+            ],
+            "desc": "同近"
+          },
+          "ukphone": "'ɔːlməʊst",
+          "ukspeech": "almost&type=1",
+          "star": 0,
+          "phrase": {
+            "phrases": [
+              {
+                "pContent": "almost all",
+                "pCn": "几乎处处"
+              }
+            ],
+            "desc": "短语"
+          },
+          "phone": "'ɔ:lməust",
+          "speech": "almost",
+          "usspeech": "almost&type=2",
+          "trans": [
+            {
+              "tranCn": "几乎,差不多",
+              "descOther": "英释",
+              "descCn": "中释",
+              "pos": "adv",
+              "tranOther": "nearly, but not completely or not quite"
+            }
+          ]
+        }
+      }
+    },
+    "bookId": "TOEFL_2"
+  }]
